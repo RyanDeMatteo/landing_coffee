@@ -30,6 +30,7 @@
 
 .recipes__videos {
   margin: 0 auto 0;
+  max-width: 1000px;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;

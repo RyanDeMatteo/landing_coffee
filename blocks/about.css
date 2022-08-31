@@ -18,6 +18,7 @@
   margin: 0;
   display: flex;
   z-index: -1;
+  overflow: hidden;
 }
 
 .about__title {

@@ -1,6 +1,7 @@
 .reservation {
   background-color: #d9e7ff;
   background-image: url(../images/background_reservation.svg);
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -11,6 +12,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 0;
   display: flex;
   justify-content: center;
   padding-top: 100px;

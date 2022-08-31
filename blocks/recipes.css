@@ -40,6 +40,7 @@
 
 .recipes__iframe {
   margin: 0;
+  border: 0;
 }
 
 .recipes__video-caption-container {

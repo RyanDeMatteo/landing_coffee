@@ -57,5 +57,4 @@
 .form__checkbox:focus {
   background-image: url(../images/check.svg);
   background-color: #2f80ed;
-  background-position: cover;
 }
